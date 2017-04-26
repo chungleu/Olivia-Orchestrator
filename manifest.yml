@@ -1,0 +1,8 @@
+applications:
+- command: npm start
+  path: .
+  instances: 1
+  # domain: https://eu-gb.bluemix.net [Domain already targetted with api as https://api.eu-gb.bluemix.net]
+  memory: 256MB
+  name: Olivia-Orchestrator-Test
+  host: Olivia-Orchestrator-Test

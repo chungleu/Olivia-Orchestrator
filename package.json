@@ -1,0 +1,21 @@
+{
+  "name": "IBM-Conversation-RestInterface",
+  "main": "server.js",
+  "dependencies": {
+    "async": "^2.1.4",
+    "bluebird": "^3.4.7",
+    "body-parser": "^1.15.2",
+    "cors": "*",
+    "dotenv": "^2.0.0",
+    "express": "^4.14.0",
+    "helmet": "^3.1.0",
+    "http": "0.0.0",
+    "jsonwebtoken": "^7.2.1",
+    "knex": "^0.12.6",
+    "log4js": "^1.0.1",
+    "mysql": "^2.13.0",
+    "pg": "^6.1.2",
+    "promise": "^7.1.1",
+    "watson-developer-cloud": "~2.18.0"
+  }
+}
